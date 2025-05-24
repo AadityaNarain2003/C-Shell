@@ -1,0 +1,17 @@
+15
+ 4
+peek -la /home 
+pastevents 
+wc < network.c 
+warp .. 
+pwd 
+ls 
+warp Desktop 
+warp ` 
+warp - 
+warp /home/aaditya/OSN 
+warp - 
+peek 
+peek -l -a 
+peek -l 
+peek -a 
